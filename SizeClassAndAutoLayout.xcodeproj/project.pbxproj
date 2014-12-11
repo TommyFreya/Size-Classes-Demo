@@ -14,6 +14,8 @@
 		A75A8C4C1A19C9EC0059F3D0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A75A8C4B1A19C9EC0059F3D0 /* Images.xcassets */; };
 		A75A8C4F1A19C9EC0059F3D0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A75A8C4D1A19C9EC0059F3D0 /* LaunchScreen.xib */; };
 		A75A8C5B1A19C9EC0059F3D0 /* SizeClassAndAutoLayoutTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A75A8C5A1A19C9EC0059F3D0 /* SizeClassAndAutoLayoutTests.m */; };
+		A75A8C661A19CA100059F3D0 /* 1406773913750.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A75A8C641A19CA100059F3D0 /* 1406773913750.jpg */; };
+		A75A8C671A19CA100059F3D0 /* bizhi-0606-3278.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A75A8C651A19CA100059F3D0 /* bizhi-0606-3278.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		A75A8C541A19C9EC0059F3D0 /* SizeClassAndAutoLayoutTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SizeClassAndAutoLayoutTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A75A8C591A19C9EC0059F3D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A75A8C5A1A19C9EC0059F3D0 /* SizeClassAndAutoLayoutTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SizeClassAndAutoLayoutTests.m; sourceTree = "<group>"; };
+		A75A8C641A19CA100059F3D0 /* 1406773913750.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1406773913750.jpg; sourceTree = "<group>"; };
+		A75A8C651A19CA100059F3D0 /* bizhi-0606-3278.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bizhi-0606-3278.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +92,8 @@
 				A75A8C481A19C9EC0059F3D0 /* Main.storyboard */,
 				A75A8C4B1A19C9EC0059F3D0 /* Images.xcassets */,
 				A75A8C4D1A19C9EC0059F3D0 /* LaunchScreen.xib */,
+				A75A8C641A19CA100059F3D0 /* 1406773913750.jpg */,
+				A75A8C651A19CA100059F3D0 /* bizhi-0606-3278.jpg */,
 				A75A8C3E1A19C9EC0059F3D0 /* Supporting Files */,
 			);
 			path = SizeClassAndAutoLayout;
@@ -200,6 +206,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A75A8C4A1A19C9EC0059F3D0 /* Main.storyboard in Resources */,
+				A75A8C671A19CA100059F3D0 /* bizhi-0606-3278.jpg in Resources */,
+				A75A8C661A19CA100059F3D0 /* 1406773913750.jpg in Resources */,
 				A75A8C4F1A19C9EC0059F3D0 /* LaunchScreen.xib in Resources */,
 				A75A8C4C1A19C9EC0059F3D0 /* Images.xcassets in Resources */,
 			);
